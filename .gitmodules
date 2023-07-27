@@ -1,9 +1,9 @@
 [submodule "ng-crawler"]
 	path = ng-crawler
-	url = https://github.com/Hana-Dul-Set/ng-crawler.git
+	url = https://github.com/lmy6268/NGCrawler.git
 [submodule "ins-crawler"]
 	path = ins-crawler
-	url = https://github.com/Hana-Dul-Set/ins-crawler
+	url = https://github.com/PROLCY/ins-crawler.git
 [submodule "flickr-crawler"]
 	path = flickr-crawler
-	url = https://github.com/Hana-Dul-Set/flickr-crawler.git
+	url = https://github.com/HappyFaceFriend/flickr-crawler.git
